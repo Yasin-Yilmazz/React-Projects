@@ -10,4 +10,5 @@
 | 03  | [Weather App](https://github.com/Yasin-Yilmazz/react-weather-app)                       | [Webpage](https://weather-app-react-3326.netlify.app)               |
 | 04  | [Random User](https://github.com/Yasin-Yilmazz/random-user-react-app)                   | [Webpage](https://random-user-react-3326.netlify.app/)              |
 | 05  | [Review App](https://github.com/Yasin-Yilmazz/review-app-react)                         | [Webpage](https://review-app-react-3326.netlify.app/)               |
-| 06  | [Github Followers](https://github.com/Yasin-Yilmazz/Github-Followers)                   | [Webpage](https://github-followers-3326.netlify.app/)                   |
+| 06  | [Github Followers](https://github.com/Yasin-Yilmazz/Github-Followers)                   | [Webpage](https://github-followers-3326.netlify.app/)               |
+| 07  | [Tutorial List](https://github.com/Yasin-Yilmazz/my-tutorial-list)                      | [Webpage](https://tutorial-list-3326.netlify.app)                   |
